@@ -1,2 +1,1 @@
-# DDL-Commands
-Basic DDL Commands
+#MySQL ASSIGNMENTS
