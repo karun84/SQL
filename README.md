@@ -1,1 +1,1 @@
-#MySQL DDL COMMANDS
+#MySQL Assignments
